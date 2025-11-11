@@ -40,7 +40,7 @@ export default function ExpenseForm({ onAddExpense }) {
       </div>
 
       <div className="form-group">
-        <label>Amount</label>
+        <label>Cost</label>
         <input
           type="number"
           step="0.01"
